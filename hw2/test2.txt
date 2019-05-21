@@ -1,0 +1,49 @@
+GRADES FOR: Principles of Programming Languages (Spring 1991)
+PROFESSOR : Eugene W. Stark
+DATA FILE : cse307.dat
+RUN DATE  : Thu Oct  4 15:54:56 2018
+
+
+ASSIGNMENT STATISTICS
+
+HW1+Essay    (whole class     ) Valid  22; Mean  27.09; Std. Dev.   7.99
+HW1+Essay    (section        3) Valid   5; Mean  24.40; Std. Dev.  11.37
+HW1+Essay    (section        2) Valid   7; Mean  25.43; Std. Dev.   9.34
+HW1+Essay    (section        1) Valid  10; Mean  29.60; Std. Dev.   4.48
+
+HW2          (whole class     ) Valid  22; Mean  17.68; Std. Dev.   9.30
+HW2          (section        3) Valid   5; Mean  11.40; Std. Dev.  12.52
+HW2          (section        2) Valid   7; Mean  18.71; Std. Dev.   6.78
+HW2          (section        1) Valid  10; Mean  20.10; Std. Dev.   8.49
+
+HW3+Essay    (whole class     ) Valid  21; Mean  21.71; Std. Dev.  15.43
+HW3+Essay    (section        3) Valid   5; Mean  14.00; Std. Dev.  14.68
+HW3+Essay    (section        2) Valid   6; Mean  21.33; Std. Dev.  17.00
+HW3+Essay    (section        1) Valid  10; Mean  25.80; Std. Dev.  14.88
+
+HW4+Essay    (whole class     ) Valid  22; Mean  24.82; Std. Dev.  16.72
+HW4+Essay    (section        3) Valid   5; Mean  18.20; Std. Dev.  18.94
+HW4+Essay    (section        2) Valid   7; Mean  25.14; Std. Dev.  17.78
+HW4+Essay    (section        1) Valid  10; Mean  27.90; Std. Dev.  15.73
+
+HW5          (whole class     ) Valid  22; Mean  21.68; Std. Dev.  15.57
+HW5          (section        3) Valid   5; Mean  12.40; Std. Dev.  11.87
+HW5          (section        2) Valid   7; Mean  23.57; Std. Dev.  17.71
+HW5          (section        1) Valid  10; Mean  25.00; Std. Dev.  15.20
+
+Exam1        (whole class     ) Valid  22; Mean  31.09; Std. Dev.  11.07
+Exam1        (section        3) Valid   5; Mean  33.00; Std. Dev.  11.22
+Exam1        (section        2) Valid   7; Mean  22.57; Std. Dev.  10.94
+Exam1        (section        1) Valid  10; Mean  36.10; Std. Dev.   7.99
+
+Exam2        (whole class     ) Valid  22; Mean  21.86; Std. Dev.  10.84
+Exam2        (section        3) Valid   5; Mean  21.40; Std. Dev.   7.47
+Exam2        (section        2) Valid   7; Mean  14.00; Std. Dev.  10.50
+Exam2        (section        1) Valid  10; Mean  27.60; Std. Dev.   9.54
+
+Final        (whole class     ) Valid  22; Mean  47.77; Std. Dev.  26.29
+Final        (section        3) Valid   5; Mean  48.80; Std. Dev.  32.69
+Final        (section        2) Valid   7; Mean  34.86; Std. Dev.  25.99
+Final        (section        1) Valid  10; Mean  56.30; Std. Dev.  21.82
+
+
